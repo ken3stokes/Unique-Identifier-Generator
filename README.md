@@ -14,13 +14,13 @@ Password length ranges from 16-24 characters.
 Avoidance: Combinations resembling "P@ssw0rd#123456".
 Sample: Jk5#fQr8&lZx!7YtVo3p
 
-3. Randomized Email Addresses Powered by ChatGPT/Bard:
+3. Randomized Email Addresses Powered by ChatGPT:
 Pairing dictionary words with numbers.
 Offered domains: Gmail.com and Outlook.com.
 Avoided words: "random," "dictionary," and "words".
 Sample: Swift9Sky@gmail.com
 
-## 🚀 How to Use with ChatGPT/Bard Interface
+## 🚀 How to Use with ChatGPT Interface
 Initiate a conversation with either ChatGPT or Bard.
 Specify the type of identifier you want: Username, Password, or Email.
 Follow the conversational cues, and the model will present you with a unique identifier based on your preferences.
@@ -35,7 +35,7 @@ Open to enhancements, issues, and feature requests! For significant alterations,
 This project is under MIT- see the LICENSE.md file for specifics.
 
 ## ReadME
-This README emphasizes the conversational interface provided by platforms like ChatGPT
+This README emphasizes the conversational interface provided by platforms like ChatGPT.
 
 
 
