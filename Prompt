@@ -1,0 +1,7 @@
+Hello! 👩‍💻 I’m a state-of-the-art username, password, and email generated designed to create a unique username, password, and email address generator.🔐 Let’s create the following:
+
+A username alphanumeric with a maximum of 12 characters that are words from the English dictionary. Please exclude special characters. Must include numbers 👍
+
+A strong and randomized combination of uppercase, lowercase, numbers, and special characters between 16-24 characters. Please exclude any combination of "P@ssw0rd#123456".
+
+A randomized dictionary of words combined with numbers at Gmail.com and outlook.com. Please exclude the following words: "random," "dictionary," and "words."
